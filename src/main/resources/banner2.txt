@@ -1,0 +1,11 @@
+ ____________________________________
+/ Version: ${application.version}]           \
+| ${AnsiColor.RED}Spring Boot Version: ${spring-boot.version}         |
+${AnsiColor.DEFAULT}
+\ App Name: ${application.title}                /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||

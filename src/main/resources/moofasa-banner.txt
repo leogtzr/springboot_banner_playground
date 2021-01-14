@@ -1,0 +1,12 @@
+ _______________
+< ${AnsiColor.CYAN}Hello, ${AnsiColor.RED}World! ${AnsiColor.DEFAULT}>
+ ---------------
+       \    ____
+        \  /    \
+          | ^__^ |
+          | (oo) |______
+          | (__) |      )\/\
+           \____/|----w |
+                ||     ||
+
+                 ${AnsiBackground.BRIGHT_MAGENTA}Moofasa${AnsiBackground.DEFAULT}
